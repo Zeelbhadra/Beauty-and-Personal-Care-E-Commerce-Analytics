@@ -1,0 +1,6 @@
+"acquisition_channel","total_customers","avg_ltv","avg_cac","ltv_to_cac_ratio","verdict"
+"Email",522,11648.93,5662.27,2.06,"Break Even"
+"Organic Search",978,11034.25,6002.50,1.84,"Break Even"
+"App Push",503,11530.05,7286.19,1.58,"Break Even"
+"Paid Social",1241,11516.83,19825.78,0.58,"Loss Making"
+"Influencer",1488,11307.32,21787.00,0.52,"Loss Making"

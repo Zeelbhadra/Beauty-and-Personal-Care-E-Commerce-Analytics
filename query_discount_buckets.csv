@@ -1,0 +1,5 @@
+"discount_bucket","total_orders","returned_orders","total_net_revenue","total_refunds","net_revenue_after_refunds","effective_margin_pct"
+"Low (0-10%)",12474,731,19032286.27,928468.90,18103817.37,90.32
+"Medium (10-25%)",20544,2684,26604458.80,2968077.97,23636380.83,73.06
+"High (25-40%)",6916,1502,7337029.08,1330541.10,6006487.98,55.26
+"Very High (40%+)",3984,1277,3454641.67,959394.75,2495246.92,39.21

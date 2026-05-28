@@ -1,0 +1,4 @@
+"city_tier","total_customers","total_orders","avg_order_value","avg_discount_pct","return_rate_pct"
+"Tier 3",1636,7207,1274.32,19.02,14.51
+"Tier 2",1665,14600,1287.24,19.01,14.17
+"Tier 1",1681,22111,1286.72,18.98,13.93
